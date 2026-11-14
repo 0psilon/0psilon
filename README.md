@@ -13,7 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 👋 Hi! I'm currently studying at AITalentHub, ITMO University
-* 🤖 I'm interested in DS and ML
+* 🤖 I'm interested in DS/ML/AI
 * 📬 tg: @denisdemenkov
-
